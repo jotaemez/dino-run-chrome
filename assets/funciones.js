@@ -1,5 +1,3 @@
-// ****** GAME LOOP ********//
-
 var time = new Date();
 var deltaTime = 0;
 
@@ -21,8 +19,6 @@ function Loop() {
     Update();
     requestAnimationFrame(Loop);
 }
-
-// ****** GAME LOGIC ********//
 
 var sueloY = 22;
 var velocidadY = 0;
