@@ -18,7 +18,7 @@ HTML, CSS, JS
 
 ## Support
 
-For support, email josemafd@skiff.com.
+For support, email hola@josemafd.com
 
 
 ## Demo
