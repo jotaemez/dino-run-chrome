@@ -20,4 +20,4 @@ For support, email jtax@allowcookies.dev
 
 ## Demo
 
-https://allowcookies.github.io/Dinorun-Chrome-Clon/
+https://madejtax.github.io/Dinorun-Chrome-Clon/
