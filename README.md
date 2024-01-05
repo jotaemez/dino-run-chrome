@@ -10,4 +10,4 @@ HTML, CSS, JS
 
 ## Support
 
-You can see more projects at jmfernandez.dev, as well as contact me at hola@jmfernandez.dev.
+You can see more projects at jtax.dev, as well as contact me at [jose@jtax.dev](mailto:jose@jtax.dev)..
