@@ -6,8 +6,3 @@ Dino run Game, also known as T-Rex Game, Dino Runner or Chrome Dino, is a game i
 ## Tech Stack
 
 HTML, CSS, JS
-
-
-## Support
-
-You can see more projects at jtax.dev, as well as contact me at [jose@jtax.dev](mailto:jose@jtax.dev)..
